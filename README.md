@@ -25,7 +25,7 @@
 - ❓  Ask me about anything related to privacy or security  
   
 
-<br><br>  
+<br>
 
 
 ## My Skill Set  
@@ -75,7 +75,7 @@
   </table>
 </div>
 
-<br><br>
+<br>
 
 ## Connect with me  
 <div align="center">
@@ -91,11 +91,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </div>
-<br><br>
+<br>
 
 ## Support CynthiaLabs
 <div align="center">
-  Since most of the work I work on for CynthiaLabs is open-source, I heavily rely on donations from you, the people that enjoy said work so I'd be grateful if you could send me a dollar or two <3
+  Since most of the projects I work on for CynthiaLabs are open-source, I heavily rely on donations from you, the people that enjoy said work so I'd be grateful if you could send me a dollar or two <3
   <br><br>
   <a href="https://paypal.me/RdX2020" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt=paypal style="margin-bottom: 5px;"/>
@@ -105,16 +105,23 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=verstreuteseele&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
-<br><br>
+<br>
  
 ## My Jam  
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=317ftlyiev4jj6yz4zxvwhpoiqze&cover_image=true&theme=default" />
 </div>  
+
+<br><br><br>
+
+## 
+<div align="center">
+  <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pike</p>
+</div>
