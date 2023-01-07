@@ -114,13 +114,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=claracrazy&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
-<br>
- 
-## My Jam  
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317ftlyiev4jj6yz4zxvwhpoiqze&cover_image=true&theme=default" />
-</div>  
-
 <br><br><br>
 
 ## 
