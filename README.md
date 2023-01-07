@@ -86,8 +86,14 @@
   <a href="https://instagram.com/cynthia_dev" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>  
+
+<a href="https://discord.gg/flipper-xtreme" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
 </div>
 <br>
+
+
 
 ## Support CynthiaLabs
 <div align="center">
