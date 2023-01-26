@@ -118,5 +118,5 @@
 
 ## 
 <div align="center">
-  <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pike</p>
+  <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine</p>
 </div>
