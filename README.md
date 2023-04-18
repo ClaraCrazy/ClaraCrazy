@@ -23,21 +23,24 @@
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<div>
+<img align="left" height="240" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
+<img align="left" height="240" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+</div>
 
 - 🔭 I’m currently working on [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) and [Synthia](https://discord.gg/meetsynthia)
 - 🌱 I’m currently learning C
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
-  - 📊 Pentesting related Projects
-  - 🖼 Machine learning &/ Artificial Intelligence 
-  - 🛠 DIY Raspberry Pi Projects
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
+&nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
+&nbsp; ∘ &nbsp; 🖼 Machine learning &/ Artificial Intelligence<br>
+&nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
 - 💬 Ask me about Python, AI, Security, Qubes OS
 - 📙 Check out my [Website](https://cynthialabs.net)
 - 🎉 Fun-Fact: I ❤️ Cats and Cookies🍪
 
 <br><br>
 
-## ⚙️ Some Tool and Tech I use
+## ⚙️ Some Tools and Tech I use
 
 
 | Frontend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities (mainly Discord) | 
