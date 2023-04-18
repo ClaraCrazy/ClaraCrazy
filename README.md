@@ -1,4 +1,4 @@
-[![My-banner](https://user-images.githubusercontent.com/55334727/232718954-01907ec2-cbc4-4438-b381-d83ff25c568e.png)](https://cynthialabs.net)
+[![My-banner](https://user-images.githubusercontent.com/55334727/232865412-df3e184b-0b02-4e11-b319-57c595a3c01b.png)](https://cynthialabs.net)
 
 <h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3>
 <div align="center">
