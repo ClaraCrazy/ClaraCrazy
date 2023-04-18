@@ -24,7 +24,7 @@
 ## ⚡️ A Few Quick Facts
 
 <div>
-<img align="left" height="260vh" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
+<img align="left" height="260vh" src="https://user-images.githubusercontent.com/55334727/232866686-aec8bc11-14a3-4499-9072-9ea96e6e3db6.gif">
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
