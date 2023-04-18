@@ -53,7 +53,7 @@
 ## ❤️ Support me
 
 <div align="center">
-<p>Since I work full-time on open-source projects like [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme), I heavily rely on donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪</p>
+<p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, I heavily rely on donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪</p>
 
 <a href="https://paypal.me/RdX2020" target="_blank">
   <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt=paypal style="margin-bottom: 5px;"/>
