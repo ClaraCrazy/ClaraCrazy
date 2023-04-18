@@ -78,10 +78,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="786">
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ClaraCrazy&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="30%">
-</p>
-
 <br><br><br>
 
 <div align="center">  
