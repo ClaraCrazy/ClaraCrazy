@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="786">
 </p>
 
 <p align="center">
