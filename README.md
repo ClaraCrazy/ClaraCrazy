@@ -18,7 +18,7 @@
 </div>  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25" />  
+  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -85,7 +85,7 @@
 <br><br><br>
 
 <div align="center">  
-  <img style="margin: 10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25" />  
+  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
 </div>
 <div align="center">
   <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine</p>
