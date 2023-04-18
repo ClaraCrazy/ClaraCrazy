@@ -28,14 +28,13 @@
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-<br>
-
 - 🔭 I’m currently working on [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) and [Synthia](https://discord.gg/meetsynthia)
 - 🌱 I’m currently learning C
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
+- I'm daily-driving [Qubes OS](https://qubes-os.org) and got my own [docs](https://github.com/ClaraCrazy/qubes-docs/) on it
 - 💬 Ask me about Python, AI, Security, Qubes OS
 - 📙 Check out my [Website](https://cynthialabs.net)
 - 🎉 Fun-Fact: I ❤️ Cats and Cookies🍪
