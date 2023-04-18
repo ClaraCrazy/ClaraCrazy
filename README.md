@@ -24,7 +24,7 @@
 ## ⚡️ A Few Quick Facts
 
 <div>
-<img align="left" height="240" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
+<img align="left" height="240" width="210" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
 <img align="left" height="240" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning C
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
-&nbsp; ∘ &nbsp; 🖼 Machine learning &/ Artificial Intelligence<br>
+&nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
 - 💬 Ask me about Python, AI, Security, Qubes OS
 - 📙 Check out my [Website](https://cynthialabs.net)
