@@ -30,7 +30,7 @@
 
 - 👩 I'm a `21` year old female from Germany 🇩🇪
 - 🔭 I’m currently working on [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) and [Synthia](https://discord.gg/meetsynthia)
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning `C`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
