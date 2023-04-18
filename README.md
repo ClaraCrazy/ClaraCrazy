@@ -24,8 +24,8 @@
 ## ⚡️ A Few Quick Facts
 
 <div>
-<img align="left" height="240" width="210" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
-<img align="left" height="240" width="10" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+<img align="left" height="260vh" src="https://media.tenor.com/vMS8fFQR0OAAAAAC/anime-computer.gif">
+<img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
 - 🔭 I’m currently working on [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) and [Synthia](https://discord.gg/meetsynthia)
