@@ -1,0 +1,21 @@
+name: Activity Gist
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    
+    - uses: JasonEtco/activity-box@master
+      env:
+          GH_PAT: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ClaraCrazy
+          GIST_ID: a4d35f2be169eab24e19a128c7278cb5
