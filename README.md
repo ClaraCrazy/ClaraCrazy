@@ -1,18 +1,40 @@
 [![My-banner](https://user-images.githubusercontent.com/55334727/232865412-df3e184b-0b02-4e11-b319-57c595a3c01b.png)](https://cynthialabs.net)
 
+<!--
+Welcome to my readme source! Glad you made it here. This was a lot of "fun" to write haha. 
+-->  
+
 <h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3>
 <div align="center">
+
+<!--
+Active in here:
+-->  
+
+  <a href="https://discord.gg/flipper-xtreme" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+  <a href="https://steamcommunity.com/id/ClaraCrazy" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>
+
+<!--
+Mostly dead pages, lets add some space between those, shall we?
+
+Actually... lets just remove them completely.
+-->  
+
+<!-- Be-gone!
+  <img height="10" width="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
+
   <a href="https://twitter.com/CynthiaAI_" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-
   <a href="https://instagram.com/cynthia_dev" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
   </a>  
+-->  
 
-<a href="https://discord.gg/flipper-xtreme" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
 </div>
   <br>
 </div>  
@@ -22,6 +44,10 @@
 </div>
 
 ## ⚡️ A Few Quick Facts
+
+<!--
+This part was an absolute nightmare to figure out. Turns out that Githubs extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
+-->  
 
 <div>
 <img align="left" height="260vh" src="https://user-images.githubusercontent.com/55334727/232866686-aec8bc11-14a3-4499-9072-9ea96e6e3db6.gif">
@@ -44,6 +70,9 @@
 
 ## ⚙️ Some Tools and Tech I use
 
+<!--
+List hell. Be my guest, I will explain absolutely nothing
+-->  
 
 | Frontend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities (mainly Discord) | 
 | :---: | :---: | :---: |
@@ -53,6 +82,10 @@
 <br><br>
 
 ## ❤️ Support me
+
+<!--
+Pwease support me >.<
+-->  
 
 <div align="center">
 <p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, I heavily rely on donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪</p>
@@ -68,6 +101,11 @@
 <br><br>
 
 ## 📊 GitHub Stats:
+
+<!--
+Gotta love some stats
+-->  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaraCrazy&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="32%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraCrazy&theme=dracula&hide_border=false" width="35%">
@@ -79,6 +117,10 @@
 </p>
 
 <br><br><br>
+
+<!--
+Aaaaaand thats it. Vewy nice
+-->  
 
 <div align="center">  
   <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
