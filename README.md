@@ -71,8 +71,9 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 ## 🖥️ My beautiful Workstation
 
 <img align="right" height="280vh" src="https://steamuserimages-a.akamaihd.net/ugc/2055368227662541010/D0836776CC2C5DCCBECAE559D3AD5C09F656C5A8/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&im">
+<details open>
+  <summary>Machine Specs</summary>
 
-- Machine Specs:
   - CPU: AMD Ryzen 5 5700G
   - GPU: Nvidia RTX 3060
   - RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16
@@ -83,6 +84,21 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
     - Boot: FastrO MS150 512GB NVMe
     - Work: Toshiba MQ01ABD100 1TB HDD
     - Game: TeamGroup T253 1TB SSD
+
+</details>
+
+<details>
+  <summary>Peripherals</summary>
+
+  - Monitor: 2x Huawei 23,8" Full HD
+  - Keyboard: Ducky One 3 Classic MX Blue
+  - Mousse: Trust GXT 165 Celox
+  - Audio Equip:
+    - Amplifier: Scarlett 2i2 3rd Gen audio interface
+    - Microphone: CM25 MkIII condenser microphone
+    - Headphones: HP60 MkIII studio headphones"
+
+  </details>
 
 <br><br>
 
