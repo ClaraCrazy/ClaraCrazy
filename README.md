@@ -72,7 +72,7 @@ Lets also add a nice spec list bc why not :)
 -->
 ## 🖥️ My beautiful Workstation
 
-<img align="right" height="300vh" src="https://user-images.githubusercontent.com/55334727/233894583-44aabf36-7fe5-431a-a631-a3efd1510c95.png">
+<img align="right" height="300vh" src="https://user-images.githubusercontent.com/55334727/233895069-d1aa1e76-3ce5-4e3d-b1ea-ee7d34bd80c2.png">
 <details open>
   <summary>Machine Specs</summary>
 
