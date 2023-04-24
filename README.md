@@ -84,8 +84,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
     - Work: Toshiba MQ01ABD100 1TB HDD
     - Game: TeamGroup T253 1TB SSD
 
-
-
+<br><br>
 
 ## ⚙️ Some Tools and Tech I use
 
