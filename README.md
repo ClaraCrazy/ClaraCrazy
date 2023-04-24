@@ -67,7 +67,9 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 - 🎉 Fun-Fact: I ❤️ Cats and Cookies🍪
 
 <br><br>
-
+<!--
+Lets also add a nice spec list bc why not :)
+-->
 ## 🖥️ My beautiful Workstation
 
 <img align="right" height="300vh" src="https://steamuserimages-a.akamaihd.net/ugc/2055368227662541010/D0836776CC2C5DCCBECAE559D3AD5C09F656C5A8/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&im">
@@ -96,7 +98,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
   - Audio Equip:
     - Amplifier: Scarlett 2i2 3rd Gen audio interface
     - Microphone: CM25 MkIII condenser microphone
-    - Headphones: HP60 MkIII studio headphones"
+    - Headphones: HP60 MkIII studio headphones
 
   </details>
 
