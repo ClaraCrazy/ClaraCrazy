@@ -70,7 +70,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 
 ## 🖥️ My beautiful Workstation
 
-<img align="right" height="360vh" src="https://steamuserimages-a.akamaihd.net/ugc/2055368227662541010/D0836776CC2C5DCCBECAE559D3AD5C09F656C5A8/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&im">
+<img align="right" height="300vh" src="https://steamuserimages-a.akamaihd.net/ugc/2055368227662541010/D0836776CC2C5DCCBECAE559D3AD5C09F656C5A8/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&im">
 
 - Machine Specs:
   - CPU: AMD Ryzen 5 5700G
@@ -80,9 +80,9 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
   - Cooler: MSI MPG CORELIQUID K240 V2 AIO
   - Motherboard: MSI B450 Gaming Plus
   - Drives:
-    - Boot drive: FastrO MS150 512GB NVMe
-    - Work drive: Toshiba MQ01ABD100 1TB HDD
-    - Game drive: TeamGroup T253 1TB SSD
+    - Boot: FastrO MS150 512GB NVMe
+    - Work: Toshiba MQ01ABD100 1TB HDD
+    - Game: TeamGroup T253 1TB SSD
 
 
 
