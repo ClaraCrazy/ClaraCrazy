@@ -68,6 +68,23 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 
 <br><br>
 
+## 🖥️ My beautiful Workstation
+
+<img align="right" height="360vh" src="https://steamuserimages-a.akamaihd.net/ugc/2055368227662541010/D0836776CC2C5DCCBECAE559D3AD5C09F656C5A8/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&im">
+
+| Machine Specs: | Peripherals: |
+| :---: | :---: |
+| CPU: AMD Ryzen 5 5700G | Monitor: 2x Huawei 23,8" Full HD |
+| GPU: Nvidia RTX 3060 | - Keyboard: Ducky One 3 Classic MX Blue |
+| RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16 | Mousse: Trust GXT 165 Celox |
+| Case: MSI MPG Gungnir 111R | Amplifier: Scarlett 2i2 3rd Gen audio interface|
+| Cooler: MSI MPG CORELIQUID K240 V2 AIO | Microphone: CM25 MkIII condenser microphone | 
+| Motherboard: MSI B450 Gaming Plus | Headphones: HP60 MkIII studio headphones |
+| Drives:<br>- Boot drive: FastrO MS150 512GB NVMe<br>- Work drive: Toshiba MQ01ABD100 1TB HDD<br>- Game drive: TeamGroup T253 1TB SSD | 
+
+
+
+
 ## ⚙️ Some Tools and Tech I use
 
 <!--
@@ -100,7 +117,7 @@ Pwease support me >.<
   
 <br><br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <!--
 Gotta love some stats
