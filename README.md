@@ -96,6 +96,7 @@ Lets also add a nice spec list bc why not :)
   - Keyboard: Ducky One 3 Classic MX Blue
   - Mousse: Trust GXT 165 Celox
   - Audio Equip:
+    - Speakers: Logic3 TX101 5.1 Soundbar
     - Amplifier: Scarlett 2i2 3rd Gen audio interface
     - Microphone: CM25 MkIII condenser microphone
     - Headphones: HP60 MkIII studio headphones
