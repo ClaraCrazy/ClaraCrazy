@@ -94,7 +94,7 @@ Lets also add a nice spec list bc why not :)
 
   - Monitor: 2x Huawei 23,8" Full HD
   - Keyboard: Ducky One 3 Classic MX Blue
-  - Mousse: Trust GXT 165 Celox
+  - Mousse: Logi MX Master 3S
   - Audio Equip:
     - Speakers: Logic3 TX101 5.1 Soundbar
     - Amplifier: Scarlett 2i2 3rd Gen audio interface
