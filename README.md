@@ -125,16 +125,16 @@ Pwease support me >.<
 -->  
 
 <div align="center">
-<p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, I heavily rely on donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪</p>
+<p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
-<a href="https://paypal.me/RdX2020" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt=paypal style="margin-bottom: 5px;"/>
-</a>
-<a href="https://patreon.com/CynthiaLabs">
-  <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DCynthiaLabs%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" />
-</a>
+**[Patreon](https://patreon.com/CynthiaLabs)**: ❤️ Account needed, subscription with perks.<br>
+**[Wire-transfer](https://bunq.me/ClaraK)**: No account needed, one-time<br>
+**[Paypal](https://paypal.me/RdX2020)**: Account needed, one-time<br>
+**[ko-fi](https://ko-fi.com/cynthialabs)**: No account needed, one-time<br>
+**Monero**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`<br><br>
+**Thanks for all your support <3**
 </div>
-  
+
 <br><br>
 
 ## 📊 GitHub Stats
