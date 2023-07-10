@@ -127,11 +127,12 @@ Pwease support me >.<
 <div align="center">
 <p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
-**[Patreon](https://patreon.com/CynthiaLabs)**: ❤️ Account needed, subscription with perks.<br>
-**[Wire-transfer](https://bunq.me/ClaraK)**: No account needed, one-time<br>
-**[Paypal](https://paypal.me/RdX2020)**: Account needed, one-time<br>
-**[ko-fi](https://ko-fi.com/cynthialabs)**: No account needed, one-time<br>
-**Monero**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`<br><br>
+**[Patreon](https://patreon.com/CynthiaLabs) (Fee: 8%)**: ❤️ Account needed, subscription with perks.<br>
+**[Wire-transfer](https://bunq.me/ClaraK) (Fee: 0%)**: No account needed, one-time<br>
+**[Paypal](https://paypal.me/RdX2020) (Fee: 2.15%)**: Account needed, one-time<br>
+**[ko-fi](https://ko-fi.com/cynthialabs) (Fee: 0%)**: No account needed, one-time<br>
+**Monero (Fee: ~2.5%)**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`<br>
+\* Fee is calculated by how much I will lose cashing out<br><br>
 **Thanks for all your support <3**
 </div>
 
