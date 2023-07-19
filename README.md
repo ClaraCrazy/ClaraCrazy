@@ -55,7 +55,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👩 I'm a `21` year old female from Germany 🇩🇪
-- 🔭 I’m currently working on [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme) and [Sluthub](https://github.com/orgs/Sluthub/)
+- 🔭 I’m currently working on [Xtreme](https://github.com/Flipper-XFW/Xtreme-Firmware) and [Sluthub](https://github.com/orgs/Sluthub/)
 - 🌱 I’m currently learning `C`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
@@ -125,7 +125,7 @@ Pwease support me >.<
 -->  
 
 <div align="center">
-<p>Since I work full-time on open-source projects like <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
+<p>Since I work full-time on open-source projects like <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
 **[Patreon](https://patreon.com/CynthiaLabs) (Fee: 8%)**: ❤️ Account needed, subscription with perks.<br>
 **[Wire-transfer](https://bunq.me/ClaraK) (Fee: 0%)**: No account needed, one-time<br>
