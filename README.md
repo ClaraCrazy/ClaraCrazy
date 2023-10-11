@@ -54,7 +54,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👩 I'm a `21` year old female
+- 👩 I'm a `22` year old female
 - 🔭 I’m currently working on [Xtreme](https://github.com/Flipper-XFW) and [Sluthub](https://github.com/Sluthub)
 - 🌱 I’m currently learning `C`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
@@ -127,12 +127,13 @@ Pwease support me >.<
 <div align="center">
 <p>Since I work full-time on open-source projects like <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
-**[Patreon](https://patreon.com/CynthiaLabs) (Fee: 8%)**: ❤️ Account needed, subscription with perks.<br>
-**[Wire-transfer](https://bunq.me/ClaraK) (Fee: 0%)**: No account needed, one-time<br>
-**[Paypal](https://paypal.me/RdX2020) (Fee: 2.15%)**: Account needed, one-time<br>
-**[ko-fi](https://ko-fi.com/cynthialabs) (Fee: 0%)**: No account needed, one-time<br>
-**Monero (Fee: ~2.5%)**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`<br>
-\* Fee is calculated by how much I will lose cashing out<br><br>
+**[Patreon](<https://patreon.com/CynthiaLabs>) (Fee: 8%\*)**: ❤️ Account needed, subscription with perks.
+**[Instant transfer (bunq)](<https://bunq.me/ClaraK>) (Fee: 0%\*)**: No account needed, one-time, directly to my bank
+**[Paypal](<https://paypal.me/RdX2020>)\*\* (Fee: 2%\*)**: Account needed, one-time
+**[ko-fi](<https://ko-fi.com/cynthialabs>) (Fee: 2%\*)**: No account needed, one-time
+**Monero (Fee: ~2.5%\*)**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`<br>
+\* Fee is calculated by how much I will lose when cashing out
+\*\* Please make sure to select *Friends and Family*<br><br>
 **Thanks for all your support <3**
 </div>
 
