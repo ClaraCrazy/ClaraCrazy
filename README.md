@@ -127,7 +127,7 @@ Pwease support me >.<
 <div align="center">
 <p>Since I work full-time on open-source projects like <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Xtreme</a>, My only source of income is donations from people like you that use & appreciate my stuff. So, if you can spare a dollar or two, I would really appreciate that. All the money goes towards paying rent, essentials like food, drinks etc, and most importantly it will be used to fuel my cookie addiction🍪<br></p>
 
-**[Patreon](<https://patreon.com/CynthiaLabs>) (Fee: 8%\*)**: ❤️ Account needed, subscription with perks.<br>
+**[Patreon](<https://patreon.com/crazyco>) (Fee: 8%\*)**: ❤️ Account needed, subscription with perks.<br>
 **[Instant transfer (bunq)](<https://bunq.me/ClaraK>) (Fee: 0%\*)**: No account needed, one-time, directly to my bank<br>
 **[Paypal](<https://paypal.me/RdX2020>)\*\* (Fee: 2%\*)**: Account needed, one-time<br>
 **[ko-fi](<https://ko-fi.com/cynthialabs>) (Fee: 2%\*)**: No account needed, one-time<br>
