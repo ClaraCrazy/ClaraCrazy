@@ -63,7 +63,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 &nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
 - I'm daily-driving [Qubes OS](https://qubes-os.org) and got my own [docs](https://github.com/ClaraCrazy/qubes-docs/) on it
 - 💬 Ask me about Python, AI, Security, Qubes OS
-- 📙 Check out my [Website](https://cynthialabs.net)
+- 📙 Check out my [Website](https://crazyco.xyz)
 - 🎉 Fun-Fact: I ❤️ Cats and Cookies🍪
 
 <br><br>
@@ -113,7 +113,7 @@ List hell. Be my guest, I will explain absolutely nothing
 
 | Frontend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> | Websites / Finding vulnerabilities (mainly Discord) | 
 | :---: | :---: | :---: |
-| Backend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> <img style="margin: 10px" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" alt="MSSQL" height="50" /> | Working on websites, DIY Projects, [Synthia](https://meetsynthia.co)
+| Backend | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> <img style="margin: 10px" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png" alt="MSSQL" height="50" /> | Working on websites, DIY Projects
 | DevOps | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />| Mostly personal interest |
 
 <br><br>
