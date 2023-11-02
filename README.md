@@ -55,7 +55,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👩 I'm a `22` year old female
-- 🔭 I’m currently working on [Xtreme](https://github.com/Flipper-XFW) and [Sluthub](https://github.com/Sluthub)
+- 🔭 I’m currently working on [Xtreme](https://github.com/Flipper-XFW), [Sluthub](https://github.com/Sluthub) and [48hr.email](https://github.com/Crazyco-xyz/48hr.email)
 - 🌱 I’m currently learning `C`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
@@ -154,6 +154,14 @@ Gotta love some stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&rank=-C" width="786">
 </p>
+
+<div align="center">
+<h3>My Organizations:</h3>
+
+| CrazyCo  | Cynthialabs | Xtreme  | Sluthub |
+| -------- | ----------- | ------- | ------- |
+| <a href="https://github.com/Crazyco-xyz"><img src="https://avatars.githubusercontent.com/u/149579760?s=64&v=4"></a> | <a href="https://github.com/Crazyco-xyz"><img src="https://avatars.githubusercontent.com/u/107252298?s=64&v=4"></a> | <a href="https://github.com/Flipper-XFW"><img src="https://avatars.githubusercontent.com/u/140006447?s=64&v=4"></a> | <a href="https://github.com/Sluthub"><img src="https://avatars.githubusercontent.com/u/136995745?s=64&v=4"></a> |
+</div>
 
 <br><br><br>
 
