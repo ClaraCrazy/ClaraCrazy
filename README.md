@@ -159,7 +159,7 @@ Gotta love some stats
 
 | CrazyCo  | Cynthialabs | Xtreme  | Sluthub |
 | -------- | ----------- | ------- | ------- |
-| <a href="https://github.com/Crazyco-xyz" target="_blank"><img src="https://avatars.githubusercontent.com/u/149579760?s=64&v=4"></a> | <a href="https://github.com/Crazyco-xyz" target="_blank"><img src="https://avatars.githubusercontent.com/u/107252298?s=64&v=4"></a> | <a href="https://github.com/Flipper-XFW" target="_blank"><img src="https://avatars.githubusercontent.com/u/140006447?s=64&v=4"></a> | <a href="https://github.com/Sluthub" target="_blank"><img src="https://avatars.githubusercontent.com/u/136995745?s=64&v=4"></a> |
+| <a href="https://github.com/Crazyco-xyz" target="_blank"><img src="https://avatars.githubusercontent.com/u/149579760?s=64&v=4"></a> | <a href="https://github.com/CynthiaLabs" target="_blank"><img src="https://avatars.githubusercontent.com/u/107252298?s=64&v=4"></a> | <a href="https://github.com/Flipper-XFW" target="_blank"><img src="https://avatars.githubusercontent.com/u/140006447?s=64&v=4"></a> | <a href="https://github.com/Sluthub" target="_blank"><img src="https://avatars.githubusercontent.com/u/136995745?s=64&v=4"></a> |
 </div>
 
 <br><br><br>
