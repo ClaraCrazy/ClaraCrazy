@@ -11,7 +11,7 @@ Welcome to my readme source! Glad you made it here. This was a lot of "fun" to w
 Active in here:
 -->  
 
-  <a href="https://discord.gg/rY5QJtxGbS" target="_blank">
+  <a href="https://discord.gg/crazyco" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
   <a href="https://steamcommunity.com/id/ClaraCrazy" target="_blank">
