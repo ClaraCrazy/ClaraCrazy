@@ -72,12 +72,13 @@ Lets also add a nice spec list bc why not :)
 -->
 ## 🖥️ My beautiful Workstation
 
-<img align="right" height="300vh" src="https://user-images.githubusercontent.com/55334727/233895069-d1aa1e76-3ce5-4e3d-b1ea-ee7d34bd80c2.png">
+<img align="right" height="300px" width="550px" src="https://github.com/ClaraCrazy/ClaraCrazy/assets/55334727/74b2421f-9a63-44e0-bcbb-b72c72323364">
+
 <details open>
   <summary>Machine Specs</summary>
 
   - CPU: AMD Ryzen 5 5700G
-  - GPU: Nvidia RTX 3060
+  - GPU: Nvidia RTX 3060 & GT 710
   - RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16
   - Case: MSI MPG Gungnir 111R
   - Cooler: MSI MPG CORELIQUID K240 V2 AIO
@@ -94,12 +95,14 @@ Lets also add a nice spec list bc why not :)
 
   - Monitor: 2x Huawei 23,8" Full HD
   - Keyboard: Ducky One 3 Classic MX Blue
-  - Mousse: Logi MX Master 3S
+  - Mouse: Logi MX Master 3S
   - Audio Equip:
     - Speakers: Logic3 TX101 5.1 Soundbar
     - Amplifier: Scarlett 2i2 3rd Gen audio interface
     - Microphone: CM25 MkIII condenser microphone
     - Headphones: HP60 MkIII studio headphones
+  - Desk: Secretlab Magnus Pro
+  - Chair: Secretlab Titan Evo
 
   </details>
 
