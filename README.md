@@ -93,7 +93,7 @@ Lets also add a nice spec list bc why not :)
 <details>
   <summary>Peripherals</summary>
 
-  - Monitor: 2x Huawei 23,8" Full HD
+  - Monitor: 3x Huawei 23,8" Full HD
   - Keyboard: Ducky One 3 Classic MX Blue
   - Mouse: Logi MX Master 3S
   - Audio Equip:
