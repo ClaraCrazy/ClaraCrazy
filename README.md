@@ -159,7 +159,7 @@ Gotta love some stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaraCrazy&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraCrazy&theme=dracula&hide_border=false" width="35%">
+  <img src="https://ghreadme.crazyco.xyz?user=ClaraCrazy&theme=dracula" width="35%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCrazy&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="25%">
 </p>
 
