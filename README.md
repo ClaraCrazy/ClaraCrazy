@@ -40,7 +40,7 @@ Actually... lets just remove them completely.
 </div>  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/claracrazy_gh_banner/download" height="25" />  
+  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/kwfMGSD3BRQiGD6/download" height="25" />  
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -155,8 +155,9 @@ Pwease support me >.<
 
 <!--
 Gotta love some stats
--->  
 
+
+TODO: Fix
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaraCrazy&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="32%">
   <img src="https://ghreadme.crazyco.xyz?user=ClaraCrazy&theme=dracula" width="35%">
@@ -166,6 +167,7 @@ Gotta love some stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ClaraCrazy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=-Repositories,-Reviews" width="786">
 </p>
+-->  
 
 <div align="center">
 <h3>My Organizations:</h3>
@@ -182,7 +184,7 @@ Aaaaaand thats it. Vewy nice
 -->  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/claracrazy_gh_banner/download" height="25" />  
+  <img style="margin: 10px" src="https://cloud.cynthialabs.net/s/kwfMGSD3BRQiGD6/download" height="25" />  
 </div>
 <div align="center">
   <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine</p>
