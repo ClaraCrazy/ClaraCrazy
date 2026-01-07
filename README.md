@@ -55,8 +55,8 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👩 I'm a `24` year old female
-- 🔭 I’m currently working on [48hr.email](https://github.com/Crazyco-xyz/48hr.email), and my mental health
-- 🌱 I’m currently learning `C` <!-- and `how to be a good wife` -->
+- 🔭 I’m currently working on [48hr.email](https://github.com/Crazyco-xyz/48hr.email).
+- 🌱 I’m currently learning `how to be a good wife`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
