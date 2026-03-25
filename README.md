@@ -56,13 +56,13 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 
 - 👩 I'm a `24` year old female
 - 🔭 I’m currently working on [48hr.email](https://github.com/Crazyco-xyz/48hr.email).
-- 🌱 I’m currently learning `how to be a good wife`
+- 🌱 I’m currently learning `how to rescue volatile systems`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
-&nbsp; ∘ &nbsp; 🖼 Machine learning & Artificial Intelligence<br>
+&nbsp; ∘ &nbsp; 🖼 Anonymous & privacy-respecting Services<br>
 &nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects<br>
 - I'm daily-driving [Qubes OS](https://qubes-os.org) and got my own [docs](https://github.com/ClaraCrazy/qubes-docs/) on it
-- 💬 Ask me about Python, AI, Security, Qubes OS
+- 💬 Ask me about Security and Qubes OS
 - 📙 Check out my [Website](https://crazyco.xyz)
 - 🎉 Fun-Fact: I ❤️ Cats and Cookies🍪
 
