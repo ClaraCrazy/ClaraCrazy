@@ -45,27 +45,28 @@ jobs:
           /\\//.test(url)) &&\n    Array.isArray(review.allowedFiles));\n}\nfunction classify(pr, commits, files,\
           \ policy) {\n  if (!policy.requiredWorkflows.length) return 'no meaningful CI configured';\n  if (pr.state\
           \ !== 'open' || pr.draft || pr.user.login !== 'dependabot[bot]') return 'not an open Dependabot PR';\n\
-          \  if (pr.base.ref !== policy.branch || pr.head.repo?.full_name !== policy.repository || !pr.head.ref.startsWith('dependabot/'))\
-          \ return 'branch or repository mismatch';\n  if (pr.labels.some(label => /^(hold|manual|breaking|do-not-merge|review-required)$/i.test(label.name)))\
-          \ return 'manual hold';\n  const review = reviewedUpdate(pr, policy);\n  if (!review && /maintainer changes|\\\
-          bbreaking changes?\\b|\\bbreaking-change\\b/i.test(pr.body || '')) return 'agent compatibility review\
-          \ pending';\n  if (commits.length !== 1 || commits[0].sha !== pr.head.sha || commits[0].author?.login\
-          \ !== 'dependabot[bot]' || !commits[0].commit.verification?.verified) return 'unverified or edited bot\
-          \ commit';\n  const message = commits[0].commit.message;\n  if ((message.match(/^\\s*-?\\s*dependency-name:/gm)\
-          \ || []).length !== 1) return 'grouped or unknown dependency metadata';\n  if (!review && !/^\\s*update-type:\
-          \ version-update:semver-(patch|minor)\\s*$/m.test(message)) return 'agent compatibility review pending';\n\
-          \  const versions = /^Bumps .+ from (v?\\d+\\.\\d+\\.\\d+) to (v?\\d+\\.\\d+\\.\\d+)\\.$/m.exec(message);\n\
-          \  if (!review && (!versions || !compatibleVersion(versions[1], versions[2]))) return 'agent compatibility\
-          \ review pending';\n  if (!files.length || files.length > 50 || files.some(file => file.status !== 'modified'\
-          \ ||\n    !policy.dependencyFiles.includes(file.filename) && !(review?.allowedFiles.includes(file.filename)\
-          \ && /^\\.github\\/workflows\\/[^/]+\\.ya?ml$/.test(file.filename)))) return 'changes outside reviewed\
-          \ dependency files';\n  return null;\n}\nfunction successfulRun(run, jobs, workflow) {\n  return run.status\
-          \ === 'completed' && run.conclusion === 'success' && jobs.length > 0 &&\n    jobs.filter(job => job.conclusion\
-          \ !== 'skipped').every(job => job.status === 'completed' && job.conclusion === 'success') &&\n    workflow.steps.every(name\
-          \ => jobs.some(job => job.conclusion === 'success' && job.steps?.some(step => step.name === name && step.status\
-          \ === 'completed' && step.conclusion === 'success')));\n}\nasync function run(github, context, core, policy)\
-          \ {\n  const repo = context.repo;\n  if (`${repo.owner}/${repo.repo}` !== policy.repository) throw new\
-          \ Error('Repository policy mismatch');\n  const apply = context.eventName !== 'workflow_dispatch' || context.payload.inputs?.mode\
+          \  if (pr.base.ref !== policy.branch || pr.head.repo?.full_name?.toLowerCase() !== policy.repository.toLowerCase()\
+          \ || !pr.head.ref.startsWith('dependabot/')) return 'branch or repository mismatch';\n  if (pr.labels.some(label\
+          \ => /^(hold|manual|breaking|do-not-merge|review-required)$/i.test(label.name))) return 'manual hold';\n\
+          \  const review = reviewedUpdate(pr, policy);\n  if (!review && /maintainer changes|\\bbreaking changes?\\\
+          b|\\bbreaking-change\\b/i.test(pr.body || '')) return 'agent compatibility review pending';\n  if (commits.length\
+          \ !== 1 || commits[0].sha !== pr.head.sha || commits[0].author?.login !== 'dependabot[bot]' || !commits[0].commit.verification?.verified)\
+          \ return 'unverified or edited bot commit';\n  const message = commits[0].commit.message;\n  if ((message.match(/^\\\
+          s*-?\\s*dependency-name:/gm) || []).length !== 1) return 'grouped or unknown dependency metadata';\n \
+          \ if (!review && !/^\\s*update-type: version-update:semver-(patch|minor)\\s*$/m.test(message)) return\
+          \ 'agent compatibility review pending';\n  const versions = /^Bumps .+ from (v?\\d+\\.\\d+\\.\\d+) to\
+          \ (v?\\d+\\.\\d+\\.\\d+)\\.$/m.exec(message);\n  if (!review && (!versions || !compatibleVersion(versions[1],\
+          \ versions[2]))) return 'agent compatibility review pending';\n  if (!files.length || files.length > 50\
+          \ || files.some(file => file.status !== 'modified' ||\n    !policy.dependencyFiles.includes(file.filename)\
+          \ && !(review?.allowedFiles.includes(file.filename) && /^\\.github\\/workflows\\/[^/]+\\.ya?ml$/.test(file.filename))))\
+          \ return 'changes outside reviewed dependency files';\n  return null;\n}\nfunction successfulRun(run,\
+          \ jobs, workflow) {\n  return run.status === 'completed' && run.conclusion === 'success' && jobs.length\
+          \ > 0 &&\n    jobs.filter(job => job.conclusion !== 'skipped').every(job => job.status === 'completed'\
+          \ && job.conclusion === 'success') &&\n    workflow.steps.every(name => jobs.some(job => job.conclusion\
+          \ === 'success' && job.steps?.some(step => step.name === name && step.status === 'completed' && step.conclusion\
+          \ === 'success')));\n}\nasync function run(github, context, core, policy) {\n  const repo = context.repo;\n\
+          \  if (`${repo.owner}/${repo.repo}`.toLowerCase() !== policy.repository.toLowerCase()) throw new Error('Repository\
+          \ policy mismatch');\n  const apply = context.eventName !== 'workflow_dispatch' || context.payload.inputs?.mode\
           \ === 'apply';\n  const summary = {mode: apply ? 'apply' : 'audit', assessed: 0, merged: [], held: []};\n\
           \  // Repository variables are controlled by administrators, not by PR content.\n  // Keeping reviews\
           \ outside Git avoids advancing the base SHA just to record approval.\n  const reviews = JSON.parse(process.env.DEPENDENCY_REVIEWS\
