@@ -19,6 +19,7 @@ permissions:
   actions: write
   checks: read
   deployments: write
+  statuses: read
 concurrency:
   group: fleet-compatible-dependencies
   cancel-in-progress: false
@@ -81,27 +82,30 @@ jobs:
           \ jobs, workflow)) {held = `CI incomplete or failed: ${workflow.path}`; break;}\n      }\n    }\n    if\
           \ (!held) {\n      const checks = await github.paginate(github.rest.checks.listForRef, {...repo, ref:\
           \ pr.head.sha, per_page: 100});\n      if (checks.some(check => ['failure','cancelled','timed_out','action_required','startup_failure'].includes(check.conclusion)))\
-          \ held = 'another check failed';\n    }\n    if (!held) {\n      const {data: branch} = await github.rest.repos.getBranch({...repo,\
-          \ branch: policy.branch});\n      const {data: comparison} = await github.rest.repos.compareCommitsWithBasehead({...repo,\
-          \ basehead: `${branch.commit.sha}...${pr.head.sha}`});\n      if (comparison.behind_by !== 0 || comparison.status\
-          \ !== 'ahead') held = 'branch needs rebasing and retesting';\n      const {data: fresh} = await github.rest.pulls.get({...repo,\
-          \ pull_number: pr.number});\n      if (fresh.head.sha !== pr.head.sha || fresh.base.sha !== branch.commit.sha\
-          \ || fresh.mergeable !== true || fresh.mergeable_state !== 'clean') held = 'PR changed or mergeability\
-          \ not verified';\n    }\n    if (held) {summary.held.push({pr: pr.number, reason: held}); continue;}\n\
-          \    if (!apply) {summary.held.push({pr: pr.number, reason: 'eligible; audit mode'}); continue;}\n   \
-          \ // sha is the server-enforced compare-and-swap guard. Never enable blind platform auto-merge.\n    const\
-          \ {data: merged} = await github.rest.pulls.merge({...repo, pull_number: pr.number, sha: pr.head.sha, merge_method:\
-          \ policy.mergeMethod});\n    if (!merged.merged) throw new Error(`Merge was not confirmed for PR ${pr.number};\
-          \ reconcile before retrying`);\n    summary.merged.push({pr: pr.number, sha: merged.sha});\n    if (policy.deployWorkflow)\
-          \ {\n      const {data: branch} = await github.rest.repos.getBranch({...repo, branch: policy.branch});\n\
-          \      if (branch.commit.sha !== merged.sha) throw new Error('Branch advanced before deploy; no dispatch\
-          \ submitted');\n      await github.rest.actions.createWorkflowDispatch({...repo, workflow_id: policy.deployWorkflow,\
-          \ ref: policy.branch,\n        inputs: {kind: 'dependencies', reason: `Tested compatible Dependabot PR\
-          \ ${pr.number}`, dry_run: 'false', skip_docker_smoke: 'false', expected_sha: merged.sha}});\n    }\n \
-          \   if (policy.deploymentQueue) {\n      await github.rest.repos.createDeployment({...repo, ref: merged.sha,\
-          \ environment: 'production', task: 'dependency-update', auto_merge: false, required_contexts: [],\n  \
-          \      description: `Tested compatible Dependabot PR ${pr.number}`, payload: {schema: 1, kind: 'compatible-dependency-update',\
-          \ pr: pr.number, tested_head: pr.head.sha, workflow_run: context.runId}});\n    }\n    // One merge per\
-          \ run: later branches must rebase and rerun their tests.\n    break;\n  }\n  core.info(JSON.stringify(summary));\n\
-          \  await core.summary.addHeading('Dependency update gate').addCodeBlock(JSON.stringify(summary,null,2),'json').write();\n\
+          \ held = 'another check failed';\n      if (checks.some(check => check.status !== 'completed')) held =\
+          \ 'another check is still running';\n      const {data: status} = await github.rest.repos.getCombinedStatusForRef({...repo,\
+          \ ref: pr.head.sha});\n      if (status.total_count > 0 && status.state !== 'success') held = 'legacy\
+          \ status checks are incomplete or failed';\n    }\n    if (!held) {\n      const {data: branch} = await\
+          \ github.rest.repos.getBranch({...repo, branch: policy.branch});\n      const {data: comparison} = await\
+          \ github.rest.repos.compareCommitsWithBasehead({...repo, basehead: `${branch.commit.sha}...${pr.head.sha}`});\n\
+          \      if (comparison.behind_by !== 0 || comparison.status !== 'ahead') held = 'branch needs rebasing\
+          \ and retesting';\n      const {data: fresh} = await github.rest.pulls.get({...repo, pull_number: pr.number});\n\
+          \      if (fresh.head.sha !== pr.head.sha || fresh.base.sha !== branch.commit.sha || fresh.mergeable !==\
+          \ true || fresh.mergeable_state !== 'clean') held = 'PR changed or mergeability not verified';\n    }\n\
+          \    if (held) {summary.held.push({pr: pr.number, reason: held}); continue;}\n    if (!apply) {summary.held.push({pr:\
+          \ pr.number, reason: 'eligible; audit mode'}); continue;}\n    // sha is the server-enforced compare-and-swap\
+          \ guard. Never enable blind platform auto-merge.\n    const {data: merged} = await github.rest.pulls.merge({...repo,\
+          \ pull_number: pr.number, sha: pr.head.sha, merge_method: policy.mergeMethod});\n    if (!merged.merged)\
+          \ throw new Error(`Merge was not confirmed for PR ${pr.number}; reconcile before retrying`);\n    summary.merged.push({pr:\
+          \ pr.number, sha: merged.sha});\n    if (policy.deployWorkflow) {\n      const {data: branch} = await\
+          \ github.rest.repos.getBranch({...repo, branch: policy.branch});\n      if (branch.commit.sha !== merged.sha)\
+          \ throw new Error('Branch advanced before deploy; no dispatch submitted');\n      await github.rest.actions.createWorkflowDispatch({...repo,\
+          \ workflow_id: policy.deployWorkflow, ref: policy.branch,\n        inputs: {kind: 'dependencies', reason:\
+          \ `Tested compatible Dependabot PR ${pr.number}`, dry_run: 'false', skip_docker_smoke: 'false', expected_sha:\
+          \ merged.sha}});\n    }\n    if (policy.deploymentQueue) {\n      await github.rest.repos.createDeployment({...repo,\
+          \ ref: merged.sha, environment: 'production', task: 'dependency-update', auto_merge: false, required_contexts:\
+          \ [],\n        description: `Tested compatible Dependabot PR ${pr.number}`, payload: {schema: 1, kind:\
+          \ 'compatible-dependency-update', pr: pr.number, tested_head: pr.head.sha, workflow_run: context.runId}});\n\
+          \    }\n    // One merge per run: later branches must rebase and rerun their tests.\n    break;\n  }\n\
+          \  core.info(JSON.stringify(summary));\n  await core.summary.addHeading('Dependency update gate').addCodeBlock(JSON.stringify(summary,null,2),'json').write();\n\
           \  return summary;\n}\n\nawait run(github, context, core, policy);\n"
