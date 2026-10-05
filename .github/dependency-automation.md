@@ -11,3 +11,5 @@ Missing or failing CI, unresolved migrations, custom source changes and explicit
 Set `DEPENDENCY_AUTOMATION_PAUSED=true` to pause merging. Manual workflow dispatch defaults to audit; schedules and completed CI can apply eligible updates. Privileged merge workflows never check out or run PR code.
 
 This repository currently lacks meaningful required CI. Updates are proposed, but merging remains blocked until the agent establishes and verifies coverage.
+
+For a signed agent-owned update, the administrator review also binds `author` to the PR login and the PR must use a `dependency-review/` branch. The gate preserves the exact tested signed commit through a guarded fast-forward. Source migrations remain separate commits with their own tests.
